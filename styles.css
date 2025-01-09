@@ -8,16 +8,16 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: -webkit-image-set(url(shattered-black-and-gold-glass-uvsvj515b0v03fw5.jpg));
     font-size: large;
     font-style: italic;
-    padding: 45px;
+    padding: 35px;
 text-align: center;
 }
 .container{
-    padding: 40px;
+    padding: 35px;
     background-color: black;
 
 }
 img{
-    width: 300px;
+    width: 250px;
   
    }
 a{
